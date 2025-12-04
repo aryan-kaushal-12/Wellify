@@ -25,10 +25,6 @@ Frontend runs at:
 http://localhost:5173
 ```
 
-### 🌐 **Demo**
-- **Web Demo:** *(add hosted link here)*  
-- **Screen Recording:** *(add video link here)*
-
 
 ## ⭐ 2. Problem Understanding
 
@@ -119,7 +115,6 @@ frontend/
 │   └── components/TipCard.jsx
 ```
 
-```
 
 
 ## ⭐ 5. Known Issues / Improvements
